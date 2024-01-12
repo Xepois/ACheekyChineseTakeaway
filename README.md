@@ -9,3 +9,9 @@ I HATE YOU ALL
 <p>
 added correct github page
 </p>
+
+## v1.1.0
+
+<p>
+added first set of mods
+</p>
